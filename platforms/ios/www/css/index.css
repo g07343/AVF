@@ -19,3 +19,14 @@ h1 {
 #instagramForm {
     display:none;
 }
+
+.ui-mobile-viewport, .ui-overlay-c {
+      background:url('paper.png') no-repeat center center fixed;
+      -webkit-background-size: cover;          
+      -moz-background-size: cover;         
+       -o-background-size: cover;          
+       background-size: cover;
+ }  
+ 
+ img.center {   display: block;   margin-left: auto;   margin-right: auto; }
+ 
